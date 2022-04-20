@@ -1,0 +1,5 @@
+src/migration
+dist
+src/database/**/migrations
+jest.config.js
+scripts/notarize.js
